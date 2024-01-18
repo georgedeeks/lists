@@ -1,2 +1,2 @@
-*.facebook.com
-*.fbcdn.net
+@@|*.facebook.com^$important
+@@|*.fbcdn.net^$important
