@@ -1,2 +1,3 @@
 @@|*.facebook.com^$important
 @@|*.fbcdn.net^$important
+@@|*.10ws.co^$important
