@@ -1,1 +1,1 @@
-@@|*.facebook.com^$important
+@@|*.azplay.me^$important
