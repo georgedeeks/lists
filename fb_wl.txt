@@ -2,3 +2,4 @@
 @@|*.fbcdn.net^$important
 @@|*.10ws.co^$important
 @@|*.rtin.page^$important
+@@|*.netflix.com^$important
