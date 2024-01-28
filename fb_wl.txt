@@ -1,5 +1,5 @@
 @@|*.facebook.com^$important
 @@|*.fbcdn.net^$important
 @@|*.10ws.co^$important
-@@|*.rtin.page^$important
+@@|*.page^$important
 @@|*.netflix.com^$important
